@@ -1,5 +1,5 @@
 # Interacting-with-PostgreSQL-database-using-Python
-This repository contains the exercises and project work for the PostgreSQL section of the Advanced Database with Python online course. The data used in these exercises were provided by the course coordinator.
+This repository contains the project work for the PostgreSQL section of the Advanced Database with Python online course. The data used in these exercises were provided by the course coordinator.
 
 ## Modules used
 - SQLAlchemy (ORM)
